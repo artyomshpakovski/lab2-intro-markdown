@@ -8,3 +8,7 @@
 ```
 print("Hello, World!")
 ```
+
+- [x] first commit
+- [x] second commit
+- [ ] third commit
